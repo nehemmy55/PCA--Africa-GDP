@@ -125,6 +125,6 @@ Generate GDP vs Time plot
 Visualize PCA results
 
 ##### Author
-###### ISHIMWE
+###### Nehemie ISHIMWE
 Advanced Linear Algebra – Formative 2 (PCA Assignment)
 African GDP Over Time — PCA Implementation from Scratch
